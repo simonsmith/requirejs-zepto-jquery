@@ -1,0 +1,6 @@
+
+main.js
+----------------
+modules/moduleA.js
+modules/moduleB.js
+main.js
